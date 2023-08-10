@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio</title>
+    <link rel="stylesheet" href="style.css">
+   
+
+</head>
+    <!-------------------BARRA--------------------------->
+    <body>
+        <header class="header">
+            <a href="#" class="logo">Jasson Júnior</a>
+            <nav class="navbar">
+                <a href="#home">Início</a>
+                <a href="#about">Sobre</a>
+                <a href="#skills">Skills</a>
+                <a href="#projects">Projetos</a>
+                <a href="#contact">Contato</a>
+            </nav>
+        </header>
+
+        <!----------------HOME--------------------------->
+        <section id="home" class="home">
+            <div class="home-content">
+                <img src="images/jasson.jpg" alt="Foto do Jasson">
+
+                <div class="home-content-text">    
+                    <p>Oi, me chamo </p>
+                    <h1>Jasson Júnior</h1>
+                    <p>Sou iniciante no mundo do desenvolvimento, e esse será meu Portfólio.</p>     
+                    <!---->
+                    <div class="contact-buttons">                    
+                        <a href="https://www.linkedin.com/in/jasson-j%C3%BAnior-07278b213/" target="_blank" class="contact-button">Linkedin</a>
+                        <a href="https://github.com/JassonJr1" target="_blank" class="contact-button">GitHub</a>
+                    </div>
+                </div>            
+              
+            </div>
+        </section>
+        <!------------------SOBRE_MIM----------------------->
+        <section id="about" class="about">
+            <div class="about-content">
+                <h2>Sobre Mim</h2>
+                <div class="about-content-cx">
+                    <p>Olá, me chamo Jasson Júnior e estou cursando a faculdade de Ciência da Computação. Atualmente já tive uma certa experiência com o mercado de trabalho pois já trabalhe em áreas totalmente administrativas e outras focadas na área da tecnologia. Dentro da minha área de conhecimento, posso dizer que sou fluente em inglês, tenho noção de programação com Python e C e tenho senso de gestão de equipe para direcionar para o melhor caminho pro trabalho. Sou uma pessoa que gosta de fazer o seu trabalho bem feito e com qualidade, gosto de ajudar meus colegas de equipe e torna a atmosfera mais leve com eles, sou comunicativo e gosto de trazer também uma boa experiência aos clientes.</p>
+                </div>
+            </div>
+        </section>
+
+        <!--------------------SKILLS--------------------->
+        <section id="skills" class="skills">
+            <div class="skills-content">
+                <h2>Skills</h2>
+                <div class="skills-content-cx">
+
+                    <div class="skill">
+                        <div class="skill-box">
+                            <img src="images/ht.png" alt="Skill 1">
+                            <div class="skill-text">HTML</div>
+                        </div>
+                    </div>
+
+                    <div class="skill">
+                        <div class="skill-box">
+                            <img src="images/cs.png" alt="Skill 2">
+                            <div class="skill-text">CSS</div>
+                        </div>
+                    </div>
+
+                    <div class="skill">
+                        <div class="skill-box">
+                            <img src="images/py.png" alt="Skill 3">
+                            <div class="skill-text">Python</div>
+                        </div>                        
+                    </div>
+                    
+                    <div class="skill">
+                        <div class="skill-box">
+                            <img src="images/c.jpg" alt="Skill 4">
+                            <div class="skill-text">C</div>
+                        </div>                        
+                    </div>  
+                </div>
+            </div>
+        </section>
+
+         <!-------------------PROJETOS----------------------->
+         <section id="projects" class="projects">
+            <div class="projects-content">
+                <h2>Projetos</h2>
+                <div class="projects-content-cx">
+
+                    <div class="project">
+                        <div class="project-box">
+                            <img src="images/Gameup.png" alt="Project 1">
+                            <div class="project-text">Game Up</div>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <div class="project-box">
+                            <img src="images/TEMPO.jpg" alt="Project 2">
+                            <div class="project-text">TEMPO: As 4 Pedras</div>
+                        </div>
+                    </div>   
+                </div>
+            </div>
+        </section>
+        <!---------------------CONTATO------------------------>
+        <section id="contact" class="contact">
+            <div class="contact-content">
+                <h2>Contato</h2>
+                <div class="contact-form">
+                    <form action="https://formspree.io/f/xqkvppqw" method="POST">
+                        <label for="name">Nome:</label>
+                        <input type="text" id="name" name="name" required>
+        
+                        <label for="subject">Assunto:</label>
+                        <input type="text" id="subject" name="subject" required>
+        
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" required>
+        
+                        <label for="message">Mensagem:</label>
+                        <textarea id="message" name="message" required></textarea>
+        
+                        <button type="submit">Enviar</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <div class="footer-content">
+                <p>&copy; 2023 Jasson Júnior Todos os direitos reservados.</p>
+            </div>
+        </footer>
+
+     
+        
+    </html>
