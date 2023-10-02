@@ -10,7 +10,7 @@ Os projetos desenvolvidos ao longo do semestre estão organizados em seus respec
 
 
 # Atividades Desenvolvidas
-Neste repositório, foram desenvolvidas as seguintes atividades relacionadas à disciplina de Sistemas Distribuídos:
+Neste repositório, foram desenvolvidas as seguintes atividades relacionadas à disciplina de Arquitertura e Desenvolvimento Web:
 
 - [Portfólio](Portfólio)
 
