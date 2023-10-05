@@ -26,4 +26,4 @@ Para mais informações ou dúvidas relacionadas a este repositório, entre em c
 
 [Jasson Júnior](jassonjr5@gmail.com)
 
-Agradeço pela sua visita e interesse em nosso repositório!
+Agradeço pela sua visita e interesse no repositório!
