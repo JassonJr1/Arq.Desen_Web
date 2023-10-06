@@ -27,7 +27,7 @@ Nosso projeto "Leilão-Legal" tem como objetivo criar uma plataforma de leilões
 
 ## Referencias
 
-- [Repositorio 1]([https://github.com/membro1](https://github.com/themesberg/flowbite-react))
-- [Repositorio 2]([https://github.com/membro2](https://github.com/itznihal/ONLINE-AUCTION))
+- [Repositorio 1](https://github.com/themesberg/flowbite-react)
+- [Repositorio 2](https://github.com/itznihal/ONLINE-AUCTION)
 
 Agradecemos a todos os contribuidores que ajudaram a tornar este projeto uma realidade!
