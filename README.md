@@ -18,6 +18,8 @@ Neste repositório, foram desenvolvidas as seguintes atividades relacionadas à 
 
 - [Site Leilão Legal](Site_Leilão-Legal)
 
+- [Chat](chat_speak)
+
 ## Contribuição
 
 Este repositório está aberto para visita e colaboração de outros estudantes e interessados na disciplina de Sistemas Distribuídos. Encorajamos a troca de experiências e o aprendizado conjunto. Sinta-se à vontade para abrir issues, propor melhorias e contribuir com seu conhecimento.
